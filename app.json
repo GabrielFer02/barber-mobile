@@ -24,7 +24,8 @@
       },
       "permissions": [
         "android.permission.CAMERA",
-        "android.permission.READ_EXTERNAL_STORAGE"
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.RECORD_AUDIO"
       ]
     },
     "plugins": [
@@ -38,6 +39,11 @@
       ],
       "expo-image",
       "expo-secure-store"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0be530cb-03c6-435a-8cda-153294da90f8"
+      }
+    }
   }
 }
