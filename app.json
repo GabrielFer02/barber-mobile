@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AppGoBarber",
-    "slug": "appgobarber",
+    "name": "GoBarber",
+    "slug": "gobarber",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
@@ -15,7 +15,7 @@
       "supportsTablet": false
     },
     "android": {
-      "package": "com.appgobarber",
+      "package": "com.gobarber",
       "adaptiveIcon": {
         "backgroundColor": "#312e38",
         "foregroundImage": "./assets/android-icon-foreground.png",
@@ -42,7 +42,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "0be530cb-03c6-435a-8cda-153294da90f8"
+        "projectId": "fa8a2ac5-56c1-4eb4-8700-9c6e517a8d65"
       }
     }
   }
